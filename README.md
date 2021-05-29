@@ -9,7 +9,7 @@ DS4A project repository
 **Directory structure:**
 ```
 ┌── data             <- train/test data
-├── outputs          <- Model result
+├── outputs          <- Model results
 │   └── models        
 ├── notebooks        <- notebooks for explorations
 ├── src              <- source code
